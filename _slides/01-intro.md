@@ -3,4 +3,5 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-o'doyle rules
+
+Use the left arrow to begin!
